@@ -1,25 +1,8 @@
-/* /*  your css code here. If applicable
-body{
-	background-color: #f5f5f5;
-	padding: 50px
-}
-{
-	background-color: white;
-}
-.a.span{
-	text-align: right:
-} */
-/* styles.css */
-
+/*your css code here. If applicable*/
 body {
   font-family: Arial, sans-serif;
   background-color: #f5f5f5;
-  padding: 20px;
-}
-
-h1 {
-  color: #333;
-  text-align: center;
+  padding: 2px;
 }
 
 div {
@@ -34,8 +17,6 @@ p {
   margin-bottom: 10px;
 }
 
-i {
-  font-style: italic;
-  color: #777;
+.bc, .ac{
+	text-align: right;
 }
-
