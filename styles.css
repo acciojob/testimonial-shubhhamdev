@@ -4,7 +4,15 @@ body {
   padding: 10px;
 }
 
-div {
+div.testimonial-1 {
+	padding: 10px;
+    background-color: #fff;
+	border: 1px solid lightgray;
+    text-length: 3px;
+    margin-bottom: 20px;
+/*     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+}
+div.testimonial-2 {
 	padding: 10px;
     background-color: #fff;
 	border: 1px solid lightgray;
